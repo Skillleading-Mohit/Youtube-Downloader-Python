@@ -54,7 +54,7 @@ or just download the ytdownloader.py file
 
 2. Run the script:  
    ```sh
-   python youtube_mp3_downloader.py
+   python ytdownloader.py
    ```
 3. Enter the **YouTube video URL** when prompted.  
 4. The **MP3 file** will be saved in the same folder as the script.  
