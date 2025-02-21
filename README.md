@@ -44,11 +44,14 @@ pip install yt-dlp
 ---
 
 ## ⚡ Usage  
-1. Clone the repository or download the script:  
-   ```sh
-   git clone https://github.com/your-username/youtube-mp3-downloader.git
-   cd youtube-mp3-downloader
+1. ## Clone the Repository
+To get started, clone this repository using the following command:
+
+```sh
+git clone https://github.com/Skillleading-Mohit/Youtube-Downloader-Python.git
    ```
+or just download the ytdownloader.py file 
+
 2. Run the script:  
    ```sh
    python youtube_mp3_downloader.py
